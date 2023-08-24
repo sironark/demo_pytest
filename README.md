@@ -1,5 +1,4 @@
-[![Python application](https://github.com/sironark/demo_pytest/actions/workflows/python-app.yml/badge.svg)](https://github.com/sironark/demo_pytest/actions/workflows/python-app.yml)
-
-
 # demo_pytest
-Working with python, pytest and gitActions
+Demo Pytest
+
+[![Python application](https://github.com/brenomiranda/demo_pytest/actions/workflows/python-app.yml/badge.svg)](https://github.com/brenomiranda/demo_pytest/actions/workflows/python-app.yml)
