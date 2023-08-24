@@ -36,12 +36,12 @@ class TestCalculator():
     def test_subtraction2(self):
         assert self.calc.subtraction(5, 10) == -5
 
-    @pytest.mark.skip(reason="Duplicated test case")
+    
     def test_multiplication(self):
         #self.calc = Calculator()
         assert self.calc.multiplication(2, 10) == 20
 
-    @pytest.mark.skip(reason="Duplicated test case")
+    
     def test_division(self):
         #self.calc = Calculator()
         assert self.calc.division(10, 2) == 5
